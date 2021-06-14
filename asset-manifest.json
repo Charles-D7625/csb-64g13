@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://charles-d7625.github.io/csb-64g13/static/css/main.8f70fc69.chunk.css",
+    "main.js": "https://charles-d7625.github.io/csb-64g13/static/js/main.d2a94fc3.chunk.js",
+    "main.js.map": "https://charles-d7625.github.io/csb-64g13/static/js/main.d2a94fc3.chunk.js.map",
+    "runtime-main.js": "https://charles-d7625.github.io/csb-64g13/static/js/runtime-main.834fc0bc.js",
+    "runtime-main.js.map": "https://charles-d7625.github.io/csb-64g13/static/js/runtime-main.834fc0bc.js.map",
+    "static/js/2.a9205a14.chunk.js": "https://charles-d7625.github.io/csb-64g13/static/js/2.a9205a14.chunk.js",
+    "static/js/2.a9205a14.chunk.js.map": "https://charles-d7625.github.io/csb-64g13/static/js/2.a9205a14.chunk.js.map",
+    "index.html": "https://charles-d7625.github.io/csb-64g13/index.html",
+    "precache-manifest.86a66a2fcf8f962d7b671a0cdbc623be.js": "https://charles-d7625.github.io/csb-64g13/precache-manifest.86a66a2fcf8f962d7b671a0cdbc623be.js",
+    "service-worker.js": "https://charles-d7625.github.io/csb-64g13/service-worker.js",
+    "static/css/main.8f70fc69.chunk.css.map": "https://charles-d7625.github.io/csb-64g13/static/css/main.8f70fc69.chunk.css.map",
+    "static/js/2.a9205a14.chunk.js.LICENSE": "https://charles-d7625.github.io/csb-64g13/static/js/2.a9205a14.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.834fc0bc.js",
+    "static/js/2.a9205a14.chunk.js",
+    "static/css/main.8f70fc69.chunk.css",
+    "static/js/main.d2a94fc3.chunk.js"
+  ]
+}
